@@ -1,0 +1,23 @@
+body {
+  background: #5bc0de;
+}
+
+.btn-group {
+  position: absolute;
+  right: 5px;
+  top: 80px;
+  transform: rotate(90deg);
+}
+
+.card {
+  height: 21rem;
+  background: #222222;
+}
+
+.card img {
+  height: 15rem;
+}
+
+.carousel-item {
+  height: 300px;
+}
