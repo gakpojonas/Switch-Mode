@@ -1,0 +1,1 @@
+[![e2e pipeline](https://github.com/gakpojonas/Switch-Mode/actions/workflows/chapter4-e2e-pipeline.yml/badge.svg)](https://github.com/gakpojonas/Switch-Mode/actions/workflows/chapter4-e2e-pipeline.yml)
